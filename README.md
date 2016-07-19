@@ -24,7 +24,7 @@ Instructions
 
 Dependencies
 
-  - The R script assumes you have 'data.table' installed using install.packages("data.table")
+  1. The R script assumes you have 'data.table' installed using install.packages("data.table")
 
 More Information
 
