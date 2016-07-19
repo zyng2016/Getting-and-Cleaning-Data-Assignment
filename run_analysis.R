@@ -1,4 +1,4 @@
-# By ZiYan for Coursera: Getting and Cleaning Data (Assignment) 2016 July
+# By ZiYan for Coursera: Getting and Cleaning Data (Assignment) 2016 July 19th
 
 run_analysis <- function(){
   # load test data  
