@@ -6,7 +6,7 @@ Assignment Submission Files
 
   - run_analysis.R
   - README.md
-  - CookBook.md
+  - CodeBook.md
 
 Instructions
 
