@@ -9,7 +9,7 @@ Assignment Submission Files
 - [CodeBook.md](https://github.com/zyng2016/Getting-and-Cleaning-Data-Assignment/blob/master/CodeBook.md)
 - [tidy.txt](https://github.com/zyng2016/Getting-and-Cleaning-Data-Assignment/blob/master/tidy.txt)
 
-This is the course project for the Getting and Cleaning Data Coursera course. The R script, run_analysis.R, does the following:
+This is the course project for the Getting and Cleaning Data Coursera. The R script, run_analysis.R, does the following:
 
 1. Download the dataset if it does not already exist in the working directory
 2. Load the activity and feature info
