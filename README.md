@@ -7,6 +7,7 @@ Assignment Submission Files
 - [run_analysis.R](https://github.com/zyng2016/Getting-and-Cleaning-Data-Assignment/blob/master/run_analysis.R)
 - [README.md](https://github.com/zyng2016/Getting-and-Cleaning-Data-Assignment/blob/master/README.md)
 - [CodeBook.md](https://github.com/zyng2016/Getting-and-Cleaning-Data-Assignment/blob/master/CodeBook.md)
+- [tidy.txt](https://github.com/zyng2016/Getting-and-Cleaning-Data-Assignment/blob/master/tidy.txt)
 
 This is the course project for the Getting and Cleaning Data Coursera course. The R script, run_analysis.R, does the following:
 
